@@ -15,6 +15,11 @@
 # DS Store
 .DS_Store
 
+# RDS Files
+*.RDS
+
+# Logo
+./www/logo.jpg
 
 # Log Files
 logfile*.txt
